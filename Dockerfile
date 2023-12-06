@@ -1,6 +1,6 @@
-FROM python:3.8.7
+FROM python:3.10
 
-WORKDIR /harshil8981
+WORKDIR /Webx
 
 COPY requirements.txt ./
 
